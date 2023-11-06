@@ -21,7 +21,7 @@ Conduct](https://www.w3.org/Consortium/cepc/) to keep our community approachable
 and respectable.
 
 See [additional
-resources](www.w3.org/about/positive-work-environment/#Education) for
+resources](https://www.w3.org/about/positive-work-environment/#Education) for
 education and training to promote a positive work environment.
 
 ## Conformance
