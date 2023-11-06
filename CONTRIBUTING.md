@@ -11,6 +11,7 @@ Group](https://www.w3.org/groups/cg/solid/) (CG) to meet the needs of the
 The TRs include specifications, use cases and requirements, best practices and
 guidelines, primers and notes about the Solid ecosystem.
 
+The CG has a [Charter](https://www.w3.org/community/solid/charter/) ([source](https://github.com/w3c-cg-solid/blob/main/charter/2023-09-01.md)).
 
 ## Code of conduct
 
