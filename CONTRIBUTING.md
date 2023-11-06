@@ -2,10 +2,11 @@
 
 Thank you for investing your time in contribution to the Solid project!
 
-This repository contains the source code of the work on [Solid Technical
+The [solid/specification](https://github.com/solid/specification) repository
+contains the source code of the work on [Solid Technical
 Reports](https://solidproject.org/TR/) (TR) of the [W3C Solid Community
-Group](https://www.w3.org/community/solid/) (CG) to meet the needs of the [Solid
-Project](https://solidproject.org/).
+Group](https://www.w3.org/groups/cg/solid/) (CG) to meet the needs of the
+[Solid Project](https://solidproject.org/).
 
 The TRs include specifications, use cases and requirements, best practices and
 guidelines, primers and notes about the Solid ecosystem.
@@ -76,8 +77,9 @@ is a way to suggest changes in our repository.
 ### Translations
 
 We aim to have our documents internationalized and available in multiple
-languages. The source content in this repository is written in English. We
-accept contributions to localize the English content.
+languages. The source content in [Solid
+repositories](https://github.com/solid) are written in English. We accept
+contributions to localize the English content.
 
 
 ## Contributions at source repository
@@ -86,9 +88,10 @@ Each CG work item listed at [Solid Technical
 Reports](https://solidproject.org/TR/) has its own repository. It is strongly
 encouraged that any issues and PRs are made at their source.
 
-The persistent version of technical reports published in this repository (see
-[publishing technical reports](#publishing-technical-reports) are intended to
-be read-only snapshots of the CG work items.
+The persistent version of technical reports published in
+[solid/specification](https://github.com/solid/specification) (see [publishing
+technical reports](#publishing-technical-reports) are intended to be read-only
+snapshots of the CG work items.
 
 [Solid
 Panels](https://github.com/solid/specification/blob/main/README.md#solid-panels)
