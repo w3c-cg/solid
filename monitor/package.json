@@ -1,0 +1,17 @@
+{
+  "name": "solid-ecosystem-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "node src/main.js",
+    "build": "webpack --progress --color",
+    "watch": "webpack --progress --color --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

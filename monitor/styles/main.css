@@ -1,0 +1,15 @@
+#progress-indicator-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+#progress-indicator-container label {
+  width: 100%;
+}
+
+#progress-indicator {
+  appearance: none;
+  width: 100%;
+  height: 20px;
+}
