@@ -34,4 +34,4 @@ List generated on 2023-11-08 using [solid-ecosystem-monitor](https://github.com/
 
 ## Notes
 
-* Aaron Coburn - self-designated [during Solid CG meeting 08-11-2023](https://github.com/solid/specification/pull/595)
+* Aaron Coburn - self-designated [during Solid CG meeting 2023-11-08](https://github.com/solid/specification/pull/595)
