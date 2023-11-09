@@ -1,13 +1,13 @@
 # Solid CG Affiliations with more than one CG participant
 
-Open for edits until 14-11-2023
+Open for edits until 2023-11-14
 
 Following [Solid CG Chair Election Procedure](https://github.com/solid/specification/discussions/582)
 
-To designate a representative please edit the table and add their name in the *Designated* column.
+To designate a representative please edit the table and add their full name (as it appears in their W3C account or https://www.w3.org/groups/cg/solid/participants/ ) in the *Designated* column.
 In cases where there is no designated representative the one in the *Default* column will be included in the list of elegible voters!
 
-List generated on 08-11-2023 using [solid-ecosystem-monitor](https://github.com/VirginiaBalseiro/solid-ecosystem-monitor/pull/2)
+List generated on 2023-11-08 using [solid-ecosystem-monitor](https://github.com/VirginiaBalseiro/solid-ecosystem-monitor/pull/2)
 
 | Name                                                                          | Members | Default                 | Designated |
 | :---------------------------------------------------------------------------- | :------ | :---------------------- | :--------- |
