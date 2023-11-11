@@ -7,7 +7,7 @@ Following [Solid CG Chair Election Procedure](https://github.com/solid/specifica
 To designate a representative please edit the table and add their full name (as it appears in their W3C account or https://www.w3.org/groups/cg/solid/participants/ ) in the *Designated* column.
 In cases where there is no designated representative the one in the *Default* column will be included in the list of elegible voters!
 
-List generated on 2023-11-08 using [solid-ecosystem-monitor](https://github.com/VirginiaBalseiro/solid-ecosystem-monitor/pull/2)
+List generated on 2023-11-11 using [solid-ecosystem-monitor](https://github.com/VirginiaBalseiro/solid-ecosystem-monitor/)
 
 | Name                                                                          | Members | Default                 | Designated |
 | :---------------------------------------------------------------------------- | :------ | :---------------------- | :--------- |
@@ -17,6 +17,7 @@ List generated on 2023-11-08 using [solid-ecosystem-monitor](https://github.com/
 | Defense Information Systems Agency                                            | 2       | Jeff Waters             |            |
 | Digita                                                                        | 2       | Tom Haegemans           |            |
 | Electronics and Telecommunications Research Institute (ETRI)                  | 2       | Kangchan Lee            |            |
+| Forschungszentrum Informatik (FZI)                                            | 2       | Tobias Kaefer           |            |
 | Ghent University                                                              | 3       | Esther De Loof          |            |
 | Graphmetrix, Inc.                                                             | 3       | Frederick Gibson        |            |
 | Inrupt Inc.                                                                   | 14      | Timea Turdean           | Aaron Coburn |
