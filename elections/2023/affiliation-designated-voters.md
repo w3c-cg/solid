@@ -17,7 +17,7 @@ List generated on 2023-11-11 using [solid-ecosystem-monitor](https://github.com/
 | Defense Information Systems Agency                                            | 2       | Jeff Waters             |            |
 | Digita                                                                        | 2       | Tom Haegemans           |            |
 | Electronics and Telecommunications Research Institute (ETRI)                  | 2       | Kangchan Lee            |            |
-| Forschungszentrum Informatik (FZI)                                            | 2       | Tobias Kaefer           |            |
+| Forschungszentrum Informatik (FZI)                                            | 2       | Tobias Kaefer           | Christoph Braun |
 | Ghent University                                                              | 3       | Esther De Loof          |            |
 | Graphmetrix, Inc.                                                             | 3       | Frederick Gibson        |            |
 | Inrupt Inc.                                                                   | 14      | Timea Turdean           | Aaron Coburn |
@@ -36,3 +36,4 @@ List generated on 2023-11-11 using [solid-ecosystem-monitor](https://github.com/
 ## Notes
 
 * Aaron Coburn - self-designated [during Solid CG meeting 2023-11-08](https://github.com/solid/specification/pull/595)
+* Christoph Braun designated by Christoph Braun and Tobias Kaefer: https://github.com/w3c-cg/solid/pull/2#issuecomment-1807146352
