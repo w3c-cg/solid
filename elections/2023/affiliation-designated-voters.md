@@ -1,13 +1,11 @@
 # Solid CG Affiliations with more than one CG participant
 
-Open for edits until 2023-11-14
-
 Following [Solid CG Chair Election Procedure](https://github.com/solid/specification/discussions/582)
 
 To designate a representative please edit the table and add their full name (as it appears in their W3C account or https://www.w3.org/groups/cg/solid/participants/ ) in the *Designated* column.
 In cases where there is no designated representative the one in the *Default* column will be included in the list of elegible voters!
 
-List generated on 2023-11-11 using [solid-ecosystem-monitor](https://github.com/VirginiaBalseiro/solid-ecosystem-monitor/)
+List generated on 2023-11-27 using [solid-ecosystem-monitor](https://github.com/VirginiaBalseiro/solid-ecosystem-monitor/)
 
 | Name                                                                          | Members | Default                 | Designated |
 | :---------------------------------------------------------------------------- | :------ | :---------------------- | :--------- |
@@ -20,6 +18,7 @@ List generated on 2023-11-11 using [solid-ecosystem-monitor](https://github.com/
 | Forschungszentrum Informatik (FZI)                                            | 2       | Tobias Kaefer           | Christoph Braun |
 | Ghent University                                                              | 3       | Esther De Loof          |            |
 | Graphmetrix, Inc.                                                             | 3       | Frederick Gibson        |            |
+| Haltia, Inc.                                                                  | 2       | Arto Bendiken           |            |
 | Inrupt Inc.                                                                   | 14      | Timea Turdean           | Aaron Coburn |
 | Institut National de Recherche en Informatique et en Automatique (Inria)      | 2       | Andrei Ciortea          |            |
 | Janeiro Digital                                                               | 3       | Justin Bingham          |            |
