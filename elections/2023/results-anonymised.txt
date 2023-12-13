@@ -1,0 +1,48 @@
+OpenSTV version 1.7 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file solid-cg-chair-election-2023.blt.
+Ballot file contains 5 candidates and 41 ballots.
+No candidates have withdrawn.
+Ballot file contains 41 non-empty ballots.
+
+Counting votes for Solid CG Chair Election 2023 using Meek STV.
+5 candidates running for 3 seats.
+
+ R|Candidate 1       |Candidate 2       |Candidate 3       |Candidate 4       
+  |------------------+------------------+------------------+------------------
+  |Candidate 5       |Exhausted         |Surplus           |Threshold         
+==============================================================================
+ 1|          4.000000|          7.000000|          1.000000|          2.000000
+  |         27.000000|          0.000000|         16.749999|         10.250001
+  |---------------------------------------------------------------------------
+  | Count of first choices. Candidate Candidate 5 has reached the threshold
+  | and is elected.
+==============================================================================
+ 2|          7.101850|          7.620370|          7.824070|          8.203700
+  |         10.250010|          0.000000|          0.000009|         10.250001
+  |---------------------------------------------------------------------------
+  | Count after transferring surplus votes. Keep factors of candidates who
+  | have exceeded the threshold: Candidate 5, 0.379630.
+==============================================================================
+ 3|                  |         10.240740|          7.824070|         12.305550
+  |         10.629640|          0.000000|          2.435188|         10.250001
+  |---------------------------------------------------------------------------
+  | Count after eliminating Candidate 1 and transferring votes. All losing
+  | candidates are eliminated. Candidate Candidate 4 has reached the threshold
+  | and is elected.
+==============================================================================
+ 4|                  |         10.903208|          8.502668|         10.419404
+  |         10.433464|          0.741256|          1.562015|         10.064687
+  |---------------------------------------------------------------------------
+  | Count after transferring surplus votes. Keep factors of candidates who
+  | have exceeded the threshold: Candidate 4, 0.832958 and Candidate 5,
+  | 0.366072. Candidate Candidate 2 has reached the threshold and is elected.
+
+Winners are Candidate 2, Candidate 4, and Candidate 5.
