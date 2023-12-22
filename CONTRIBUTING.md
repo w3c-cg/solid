@@ -91,11 +91,6 @@ The persistent version of technical reports published in
 technical reports](#publishing-technical-reports) are intended to be read-only
 snapshots of the CG work items.
 
-[Solid
-Panels](https://github.com/solid/specification/blob/main/README.md#solid-panels)
-focus on certain work streams, with an aim to propose technical reports for
-the Solid ecosystem.
-
 A low-barrier way to add concrete suggestions is to submit a [user
 story](https://github.com/solid/user-stories). User stories are descriptions of
 desired features written in a special way, see the description there for
@@ -378,10 +373,10 @@ Namespaces](https://www.w3.org/2016/08/namespaces/).
 ## Meetings
 
 The CG [Meeting
-Guidelines](https://github.com/solid/specification/blob/main/meetings/README.md)
+Guidelines](https://github.com/w3c-cg/solid/blob/main/meetings/README.md)
 describes how to participate and record meetings. There is a
 [minutes
-template](https://github.com/solid/specification/blob/main/meetings/template.md)
+template](https://github.com/w3c-cg/solid/blob/main/meetings/template.md)
 that can be used by scribes to transcribe the meeting.
 
 
