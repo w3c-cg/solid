@@ -192,6 +192,10 @@ repository, create a PR.
   (after two empty lines). See [github
   tutorial](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors).
 
+* To have a maintain a clean Git history, consider using [squash
+  merge](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github#squashing-your-merge-commits)
+  for PRs, especially when incorporating reviews and code additions.
+
 ### Your PR is merged!
 
 Congratulations :tada: Solid community thanks you :sparkles:.
