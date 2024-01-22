@@ -217,8 +217,9 @@ When the work in consideration:
 * is within the scope of the CG but identifies a gap in work items, then
   follow the procedure to [propose a New Work Item](#new-work-item-proposal)
 
-If you are unsure where the work may fit, please create an issue detailing the
-stakeholders, problem context, and technical or knowledge goals.
+If you are unsure where the work may fit, please create an
+[issue](https://github.com/solid/specification) detailing the stakeholders,
+problem context, and technical or knowledge goals.
 
 ### New work item proposal
 
