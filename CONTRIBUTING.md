@@ -200,7 +200,26 @@ Congratulations :tada: Solid community thanks you :sparkles:.
 ## Work items
 
 In general, all documents in scope of the group are welcome. Work items can be
-documents or software.
+documents — such as Technical Reports, Primers, Best Practices and Guidelines,
+Use Cases and Requirements, Surveys, QA, and so forth — or software.
+
+### Workspace Selection
+
+Consider the following guidance to identify the appropriate workspace to use to
+efficiently manage communication and collaboration within the Solid Project.
+
+When the work in consideration:
+
+* involves or spans over various stakeholders, specialized groups, or
+  horizontal groupings, then start a Solid Project-wide endeavor
+* is about current CG work items, then it should be proposed within or across
+  those current work items
+* is within the scope of the CG but identifies a gap in work items, then
+  follow the procedure to [propose a New Work Item](#new-work-item-proposal)
+
+If you are unsure where the work may fit, please create an
+[issue](https://github.com/solid/specification) detailing the stakeholders,
+problem context, and technical or knowledge goals.
 
 ### New work item proposal
 
