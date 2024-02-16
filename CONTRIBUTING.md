@@ -412,9 +412,10 @@ as follows:
    communication channels such as chats and mailing lists. Include these
    URLs in the description of the calendar event for the meeting.
 4. Following the meeting, update the PR with the minutes collected from the
-   live editor.
-5. Merge the PR once substantial feedback has been reviewed and integrated for
-   publication.
+   live editor, acknowledging scribes by adding them as `Co-authored-by: NAME
+   <NAME@EXAMPLE.COM>`.
+5. Squash merge the PR once substantial feedback has been reviewed and
+   integrated for publication.
 
 
 ## Communication
