@@ -398,6 +398,24 @@ describes how to participate and record meetings. There is a
 template](https://github.com/w3c-cg/solid/blob/main/meetings/template.md)
 that can be used by scribes to transcribe the meeting.
 
+The general steps to propose, review, and publish meeting agenda and minutes
+as follows:
+
+1. Create a PR containing the agenda for the upcoming meeting with:
+  * Title: "Add `YYYY-MM-DD` agenda and minutes"
+  * Description: "Request to merge in 24 hours following meeting."
+  * Assignees: to yourself (or others)
+  * Labels: "category: meeting"
+2. Copy the agenda to a collaborative editor which, would be used
+   during the meeting.
+3. Share the URLs to both the agenda PR and live editor across various
+   communication channels such as chats and mailing lists. Include these
+   URLs in the description of the calendar event for the meeting.
+4. Following the meeting, update the PR with the minutes collected from the
+   live editor.
+5. Merge the PR once substantial feedback has been reviewed and integrated for
+   publication.
+
 
 ## Communication
 
