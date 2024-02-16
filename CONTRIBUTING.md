@@ -406,11 +406,11 @@ as follows:
   * Description: "Request to merge in 24 hours following meeting."
   * Assignees: to yourself (or others)
   * Labels: "category: meeting"
-2. Copy the agenda to a collaborative editor which, would be used
-   during the meeting.
+2. Copy the agenda to a collaborative editor, which would be used during the
+   meeting.
 3. Share the URLs to both the agenda PR and live editor across various
-   communication channels such as chats and mailing lists. Include these
-   URLs in the description of the calendar event for the meeting.
+   communication channels such as chats and mailing lists. Include these URLs
+   in the description of the calendar event for the meeting.
 4. Following the meeting, update the PR with the minutes collected from the
    live editor, acknowledging scribes by adding them as `Co-authored-by: NAME
    <NAME@EXAMPLE.COM>`.
