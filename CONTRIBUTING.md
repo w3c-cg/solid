@@ -377,6 +377,12 @@ Unless there is a prior CG decision otherwise, changes to TRs use the W3C Proces
 |[New features](https://www.w3.org/Consortium/Process/#class-4)|MUST PR.|Within 10 days or 2 meetings.|
 |[Changes to the contents of a registry table](https://www.w3.org/Consortium/Process/#class-5)|Editors or chairs MUST PR.|Within 10 days or 2 meetings.|
 
+For PRs involving other types of changes:
+
+|Document Type|Requirements|Time|
+|-|-|-|
+|Meeting Minutes|MUST PR.|After 1 day; within 2 days.|
+
 
 ## Vocabulary Management
 
@@ -403,7 +409,6 @@ as follows:
 
 1. Create a PR containing the agenda for the upcoming meeting with:
   * Title: "Add `YYYY-MM-DD` agenda and minutes"
-  * Description: "Request to merge in 24 hours following meeting."
   * Assignees: to yourself (or others)
   * Labels: "category: meeting"
 2. Copy the agenda to a collaborative editor, which would be used during the
