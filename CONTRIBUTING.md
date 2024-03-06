@@ -380,6 +380,12 @@ Unless there is a prior CG decision otherwise, changes to TRs use the W3C Proces
 |[New features](https://www.w3.org/Consortium/Process/#class-4)|MUST PR.|Within 10 days or 2 meetings.|
 |[Changes to the contents of a registry table](https://www.w3.org/Consortium/Process/#class-5)|Editors or chairs MUST PR.|Within 10 days or 2 meetings.|
 
+For PRs involving other types of changes:
+
+|Document Type|Requirements|Time|
+|-|-|-|
+|Meeting Minutes|MUST PR.|After 1 day; within 2 days.|
+
 
 ## Vocabulary Management
 
@@ -400,6 +406,24 @@ describes how to participate and record meetings. There is a
 [minutes
 template](https://github.com/w3c-cg/solid/blob/main/meetings/template.md)
 that can be used by scribes to transcribe the meeting.
+
+The general steps to propose, review, and publish meeting agenda and minutes
+as follows:
+
+1. Create a PR containing the agenda for the upcoming meeting with:
+  * Title: "Add `YYYY-MM-DD` agenda and minutes"
+  * Assignees: to yourself (or others)
+  * Labels: "category: meeting"
+2. Copy the agenda to a collaborative editor, which would be used during the
+   meeting.
+3. Share the URLs to both the agenda PR and live editor across various
+   communication channels such as chats and mailing lists. Include these URLs
+   in the description of the calendar event for the meeting.
+4. Following the meeting, update the PR with the minutes collected from the
+   live editor, acknowledging scribes by adding them as `Co-authored-by: NAME
+   <NAME@EXAMPLE.COM>`.
+5. Squash merge the PR once substantial feedback has been reviewed and
+   integrated for publication.
 
 
 ## Communication
