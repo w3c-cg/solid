@@ -4,7 +4,7 @@ To reach consensus where no consensus has been reached before.
 
 It is recommended that meetings adopt the guidelines in this document as well as the [W3C Process](https://www.w3.org/Consortium/Process/) where applicable.
 
-The [Solid Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md) and [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/) must be followed by all meeting participants.
+The [Solid Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md) and [Positive Work Environment at W3C: Code of Conduct](https://www.w3.org/policies/code-of-conduct/) must be followed by all meeting participants.
 
 ## Meeting Recordings and Transcripts
 
