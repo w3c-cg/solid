@@ -10,7 +10,7 @@ The [Solid Code of Conduct](https://github.com/solid/process/blob/main/code-of-c
 
 No audio or video recording, or automated transcripts without consent. Meetings are transcribed and made public. If consent is withheld by anyone, recording/retention must not occur.
 
-There is a [minutes template](https://github.com/solid/specification/blob/main/meetings/template.md) (Markdown) that can be used.
+There is a [minutes template](https://github.com/w3c-cg/solid/blob/main/meetings/template.md) (Markdown) that can be used.
 
 ## Roles in Meetings
 
