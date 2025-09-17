@@ -276,12 +276,20 @@ Published documents will be publicly accessible under the paths
 The PR for a versioned technical report MUST include two HTML documents:
 
 1. "Latest version" of the TR under the root (`/`) directory.
-2. "This version" (also known as the persistent version) of the TR under
-   the `/{YYYY}/` (year in 4 digits) directory.
+2. "This version" (also known as the persistent version) of the TR 
+  * for date versioned reports under the `/{YYYY}/` (year in 4 digits) directory.
+      We recommend that the latest version of the technical reports use a
+      `{shortname}`, e.g., `protocol`, `wac`, and the persistent version of the
+      technical report follows the following form: `{shortname}-{YYYYMMDD}`.
+  * for semver versioned reports under the `/tag/` directory.
+      We recommend that the latest version of the technical reports use a
+      `{shortname}`, e.g., `protocol`, `wac`, and the semantic version of the
+      technical report follows the following form: `{shortname}-v{semver}`.
 
-We recommend that the latest version of the technical reports use a
-`{shortname}`, e.g., `protocol`, `wac`, and the persistent version of the
-technical report follows the following form: `{shortname}-{YYYYMMDD}`.
+>[!NOTE]
+> Mixing date versioning and semantic versioning may lead to confusion
+> in communication. For example an implementer providing feedback may
+> refer to a date version while editors and authors remember changes under semver.
 
 All files use common file name extensions, e.g., `.html`.
 
