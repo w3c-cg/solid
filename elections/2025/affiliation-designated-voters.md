@@ -19,7 +19,7 @@ List generated on 2025-11-20 using [solid-ecosystem-monitor](https://github.com/
 | Graphmetrix, Inc.                                                             | 3       | Frederick Gibson        |            |
 | Haltia, Inc.                                                                  | 2       | Arto Bendiken           |            |
 | imec                                                                          | 2       | Beatriz Esteves         |            |
-| Inrupt Inc.                                                                   | 8       | Nicolas Seydoux         |            |
+| Inrupt Inc.                                                                   | 8       | Nicolas Seydoux         | Aaron Coburn    |
 | Institut National de Recherche en Informatique et en Automatique (Inria)      | 2       | Andrei Ciortea          |            |
 | Janeiro Digital                                                               | 3       | Justin Bingham          |            |
 | Massachusetts Institute of Technology (MIT)                                   | 2       | Dmitri Zagidulin        |            |
