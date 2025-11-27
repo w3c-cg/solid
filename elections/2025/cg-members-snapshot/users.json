@@ -1,0 +1,5522 @@
+[
+  {
+    "name": "Aad Versteden",
+    "id": 96349,
+    "affiliations": [
+      {
+        "id": 103003,
+        "name": "REDPENCIL",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/103003"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/103003/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/103003/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Aaron Coburn",
+    "id": 99754,
+    "affiliations": [
+      {
+        "id": 110197,
+        "name": "Inrupt Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://inrupt.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110197"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110197/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110197/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/110197.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Abel Van den Briel",
+    "id": 136044,
+    "affiliations": [
+      {
+        "id": 134210,
+        "name": "Digita",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://get.use.id/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/134210"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/134210/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/134210/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Adams Gravitis",
+    "id": 122659,
+    "affiliations": [
+      {
+        "id": 50475,
+        "name": "University of Toronto",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/50475"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/50475/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/50475/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Adam Sobieski",
+    "id": 49322,
+    "affiliations": [
+      {
+        "id": 54332,
+        "name": "Phoster, Inc",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/54332"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/54332/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/54332/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Akshay Kanthi",
+    "id": 116423,
+    "affiliations": []
+  },
+  {
+    "name": "Alain Bourgeois",
+    "id": 112782,
+    "affiliations": []
+  },
+  {
+    "name": "Alan Davies",
+    "id": 93436,
+    "affiliations": [
+      {
+        "id": 93435,
+        "name": "Pinkelk Consulting, Inc",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/93435"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/93435/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/93435/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Albert Esterline",
+    "id": 100046,
+    "affiliations": [
+      {
+        "id": 100045,
+        "name": "North Carolina A&T State University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/100045"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/100045/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/100045/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Alessio Nobile",
+    "id": 132207,
+    "affiliations": []
+  },
+  {
+    "name": "Alice Poggioli",
+    "id": 121693,
+    "affiliations": [
+      {
+        "id": 113958,
+        "name": "Startin'blox",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://startinblox.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/113958"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/113958/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/113958/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "aligo Kang",
+    "id": 131831,
+    "affiliations": [
+      {
+        "id": 130350,
+        "name": "Brickdoc",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://brickdoc.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/130350"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/130350/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/130350/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ali Siragedien",
+    "id": 120974,
+    "affiliations": [
+      {
+        "id": 120975,
+        "name": "Ali Method",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/120975"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/120975/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/120975/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Amber Blue",
+    "id": 141167,
+    "affiliations": []
+  },
+  {
+    "name": "Amin Anjomshoaa",
+    "id": 144531,
+    "affiliations": [
+      {
+        "id": 68381,
+        "name": "WU (Wirschaftsuniversität Wien) - Vienna University of Economics and Business",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.wu.ac.at/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/68381"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/68381/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/68381/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/68381.png?x-version=1"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Amod Malviya",
+    "id": 140515,
+    "affiliations": []
+  },
+  {
+    "name": "Amy Guy",
+    "id": 69000,
+    "affiliations": [
+      {
+        "id": 48024,
+        "name": "Digital Bazaar",
+        "discr": "organization",
+        "testimonials": {
+          "en": "W3C is the broadest, most open, and most effective venue we have found for engaging with industry on next-generation privacy-preserving technologies for individuals and organizations. The work on the Web, Verifiable Credentials, and Decentralized Identifiers, as well as access to the brightest minds, is what draws us to do our work at W3C.",
+          "ja": "W3Cは、個人および組織向けの次世代のプライバシー保護テクノロジーについて業界と関わりを持つために、最も広く、最もオープンで、最も効果的な場所です。 Webでの作業、検証可能な資格情報、分散型ID、および最も明るい心へのアクセスが、W3Cでの作業に私たちを惹きつけています。",
+          "zh_hans": "W3C 是我们发现的最广泛、最开放、最有效的场所，可以与行业就个人和组织的下一代隐私保护技术进行交流。 网络上的工作、可验证凭证和去中心化标识符，以及接触最聪明的头脑，是吸引我们在 W3C 开展工作的原因。"
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.digitalbazaar.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/48024"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/48024/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/48024/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/48024.png?x-version=4"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Andrea Cimmino",
+    "id": 115672,
+    "affiliations": [
+      {
+        "id": 34345,
+        "name": "Universidad Politécnica de Madrid",
+        "discr": "organization",
+        "testimonials": {
+          "en": "The Universidad Politécnica de Madrid is the largest Spanish technological university as well as a renowned European institution. With two recognitions as Campus of International Excellence, it is outstanding in its research activity together with its training of highly-qualified professionals, competitive at an international level."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.upm.es"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/34345"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/34345/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/34345/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/34345.png?x-version=5"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Andreas Prieß",
+    "id": 73454,
+    "affiliations": []
+  },
+  {
+    "name": "Andrea Torino Rodriguez",
+    "id": 172048,
+    "affiliations": []
+  },
+  {
+    "name": "Andrei Ciortea",
+    "id": 90182,
+    "affiliations": [
+      {
+        "id": 10894,
+        "name": "Institut National de Recherche en Informatique et en Automatique (Inria)",
+        "discr": "organization",
+        "testimonials": {
+          "en": "Inria is a founding member of W3C. Inria is the french national research institute dedicated to digital sciences, addressing scientific and technological challenges in IT and playing an active role in technology transfer. Inria was also the European host of W3C until 2002 and actively contributes to W3C groups and activities."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.inria.fr/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/10894"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/10894/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/10894/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/10894.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "André Pomp",
+    "id": 156512,
+    "affiliations": [
+      {
+        "id": 144825,
+        "name": "University of Wuppertal",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.uni-wuppertal.de/en/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/144825"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/144825/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/144825/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Angel Araya",
+    "id": 133906,
+    "affiliations": [
+      {
+        "id": 110221,
+        "name": "Janeiro Digital",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.janeirodigital.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110221"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110221/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110221/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Angelo Veltens",
+    "id": 47805,
+    "affiliations": []
+  },
+  {
+    "name": "Antoine Zimmermann",
+    "id": 43297,
+    "affiliations": [
+      {
+        "id": 36231,
+        "name": "Institut Mines-Télécom",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.imt.fr/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/36231"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/36231/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/36231/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "April Daly",
+    "id": 140832,
+    "affiliations": [
+      {
+        "id": 140833,
+        "name": "Lab Objects Corp",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/140833"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/140833/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/140833/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Armando Ramos",
+    "id": 81220,
+    "affiliations": []
+  },
+  {
+    "name": "Arne Hassel",
+    "id": 110464,
+    "affiliations": []
+  },
+  {
+    "name": "Arnold Chen",
+    "id": 156277,
+    "affiliations": []
+  },
+  {
+    "name": "Aron Homberg",
+    "id": 117293,
+    "affiliations": []
+  },
+  {
+    "name": "Arto Bendiken",
+    "id": 44536,
+    "affiliations": [
+      {
+        "id": 150415,
+        "name": "Haltia, Inc.",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://haltia.ai"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/150415"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/150415/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/150415/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ashish S Sharma",
+    "id": 128510,
+    "affiliations": []
+  },
+  {
+    "name": "A Soroka",
+    "id": 73162,
+    "affiliations": [
+      {
+        "id": 43420,
+        "name": "Apache Software Foundation",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": true,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.apache.org/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/43420"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/43420/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/43420/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Augusto Mathurin",
+    "id": 111119,
+    "affiliations": []
+  },
+  {
+    "name": "Auke van Slooten",
+    "id": 135793,
+    "affiliations": [
+      {
+        "id": 129609,
+        "name": "Muze",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/129609"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/129609/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/129609/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bart Hanssens",
+    "id": 50128,
+    "affiliations": [
+      {
+        "id": 122318,
+        "name": "FPS BOSA",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/122318"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/122318/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/122318/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bas Buller",
+    "id": 157832,
+    "affiliations": []
+  },
+  {
+    "name": "Beatriz Esteves",
+    "id": 120983,
+    "affiliations": [
+      {
+        "id": 38525,
+        "name": "imec",
+        "discr": "organization",
+        "testimonials": {
+          "en": "Flanders' research institute imec is devoted to Open Standards and Open Source since we joined the W3C Consortium back in 2000. Since then, a.o., we’ve been leading & contributing to the Media Fragments, Provenance, Solid, and Knowledge Construction WGs."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.imec-int.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/38525"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/38525/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/38525/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/38525.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Benoit Alessandroni",
+    "id": 115156,
+    "affiliations": [
+      {
+        "id": 113958,
+        "name": "Startin'blox",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://startinblox.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/113958"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/113958/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/113958/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bert Jehoul",
+    "id": 104733,
+    "affiliations": [
+      {
+        "id": 104732,
+        "name": "Open Knowledge Belgium",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/104732"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/104732/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/104732/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "biagio boi",
+    "id": 142449,
+    "affiliations": [
+      {
+        "id": 120735,
+        "name": "Università degli Studi di Salerno",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/120735"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/120735/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/120735/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Billy Wilson Arante",
+    "id": 129234,
+    "affiliations": [
+      {
+        "id": 129233,
+        "name": "Tuitt Philippines, Inc.",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/129233"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/129233/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/129233/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "bin ke",
+    "id": 132307,
+    "affiliations": []
+  },
+  {
+    "name": "bob bishop",
+    "id": 128388,
+    "affiliations": [
+      {
+        "id": 128389,
+        "name": "JointSpace",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/128389"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/128389/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/128389/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Brad Jones",
+    "id": 54994,
+    "affiliations": []
+  },
+  {
+    "name": "Brendan Quinn",
+    "id": 69834,
+    "affiliations": [
+      {
+        "id": 48074,
+        "name": "IPTC - International Press Telecommunications Council",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/48074"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/48074/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/48074/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Brian Kim",
+    "id": 128365,
+    "affiliations": []
+  },
+  {
+    "name": "Bruno Volckaert",
+    "id": 148858,
+    "affiliations": [
+      {
+        "id": 71904,
+        "name": "Ghent University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/71904"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/71904/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/71904/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Calum Inverarity",
+    "id": 169243,
+    "affiliations": [
+      {
+        "id": 62448,
+        "name": "Open Data Institute",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://theodi.org/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/62448"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/62448/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/62448/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Carlo Tosoni",
+    "id": 129331,
+    "affiliations": []
+  },
+  {
+    "name": "Caroline Gans Combe",
+    "id": 113647,
+    "affiliations": [
+      {
+        "id": 113646,
+        "name": "Reihoo",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/113646"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/113646/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/113646/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Charity Langley",
+    "id": 120582,
+    "affiliations": []
+  },
+  {
+    "name": "Charles Todd",
+    "id": 172467,
+    "affiliations": []
+  },
+  {
+    "name": "Charlie Halford",
+    "id": 136686,
+    "affiliations": [
+      {
+        "id": 1120,
+        "name": "British Broadcasting Corporation",
+        "discr": "organization",
+        "testimonials": {
+          "en": "The BBC is the world's largest broadcasting organisation whose mission is to enrich people's lives with programmes that inform, educate and entertain. It is a public service broadcaster, established by a Royal Charter and funded by UK households."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.bbc.co.uk/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/1120"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/1120/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/1120/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/1120.png?x-version=6"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Chiali Tsai",
+    "id": 148035,
+    "affiliations": []
+  },
+  {
+    "name": "Chris Min",
+    "id": 113890,
+    "affiliations": []
+  },
+  {
+    "name": "Christian Buggedei",
+    "id": 113950,
+    "affiliations": []
+  },
+  {
+    "name": "Christine Perey",
+    "id": 42577,
+    "affiliations": []
+  },
+  {
+    "name": "Christoph Braun",
+    "id": 128292,
+    "affiliations": [
+      {
+        "id": 6383,
+        "name": "Forschungszentrum Informatik (FZI)",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.fzi.de"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/6383"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/6383/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/6383/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Christophe R Patraldo",
+    "id": 128657,
+    "affiliations": []
+  },
+  {
+    "name": "Christopher Prince",
+    "id": 134285,
+    "affiliations": [
+      {
+        "id": 35662,
+        "name": "Google LLC",
+        "discr": "organization",
+        "testimonials": {
+          "en": "Google's mission is to organize the world’s information and make it universally accessible and useful."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.google.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/35662"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/35662/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/35662/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/35662.png?x-version=1"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ciprian Ciubotariu",
+    "id": 158811,
+    "affiliations": []
+  },
+  {
+    "name": "damodara _",
+    "id": 126298,
+    "affiliations": []
+  },
+  {
+    "name": "Damon Outlaw",
+    "id": 152006,
+    "affiliations": []
+  },
+  {
+    "name": "Danica D'hont",
+    "id": 153506,
+    "affiliations": [
+      {
+        "id": 38525,
+        "name": "imec",
+        "discr": "organization",
+        "testimonials": {
+          "en": "Flanders' research institute imec is devoted to Open Standards and Open Source since we joined the W3C Consortium back in 2000. Since then, a.o., we’ve been leading & contributing to the Media Fragments, Provenance, Solid, and Knowledge Construction WGs."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.imec-int.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/38525"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/38525/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/38525/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/38525.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Daniel Bakas",
+    "id": 140778,
+    "affiliations": [
+      {
+        "id": 140779,
+        "name": "Semantyk",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/140779"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/140779/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/140779/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Daniel Schraudner",
+    "id": 143272,
+    "affiliations": [
+      {
+        "id": 51844,
+        "name": "Friedrich Alexander-University of Erlangen-Nürnberg",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/51844"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/51844/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/51844/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Daniel Vangrieken",
+    "id": 138727,
+    "affiliations": []
+  },
+  {
+    "name": "Daniel Zuckerman",
+    "id": 119290,
+    "affiliations": []
+  },
+  {
+    "name": "Daphne Muller",
+    "id": 113934,
+    "affiliations": []
+  },
+  {
+    "name": "David Dabbs",
+    "id": 111406,
+    "affiliations": [
+      {
+        "id": 80871,
+        "name": "Epsilon",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/80871"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/80871/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/80871/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Ezell",
+    "id": 33655,
+    "affiliations": [
+      {
+        "id": 33654,
+        "name": "Conexxus",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.conexxus.org"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/33654"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/33654/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/33654/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "david faveris",
+    "id": 71751,
+    "affiliations": []
+  },
+  {
+    "name": "david mason",
+    "id": 61906,
+    "affiliations": [
+      {
+        "id": 112888,
+        "name": "Talent Cloud",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/112888"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/112888/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/112888/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Waite",
+    "id": 110468,
+    "affiliations": [
+      {
+        "id": 108522,
+        "name": "Ping Identity",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.pingidentity.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/108522"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/108522/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/108522/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/108522.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "davi ottenheimer",
+    "id": 121144,
+    "affiliations": [
+      {
+        "id": 110197,
+        "name": "Inrupt Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://inrupt.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110197"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110197/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110197/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/110197.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Devaraj Muthuvelmanickam",
+    "id": 128679,
+    "affiliations": [
+      {
+        "id": 128680,
+        "name": "Hexaware",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/128680"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/128680/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/128680/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "diego pacheco",
+    "id": 128178,
+    "affiliations": [
+      {
+        "id": 128177,
+        "name": "reconoser ID",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/128177"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/128177/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/128177/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dmitri Zagidulin",
+    "id": 86708,
+    "affiliations": [
+      {
+        "id": 106237,
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://web.mit.edu"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/106237"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/106237/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/106237/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dörthe Arndt",
+    "id": 111308,
+    "affiliations": [
+      {
+        "id": 55694,
+        "name": "Technische Universität Dresden",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/55694"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/55694/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/55694/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dr CKLinn",
+    "id": 164748,
+    "affiliations": [
+      {
+        "id": 164804,
+        "name": "Mcmp LLC Organization",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://gitlab.com/drchanmp"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/164804"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/164804/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/164804/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Eamonn Costello",
+    "id": 129585,
+    "affiliations": []
+  },
+  {
+    "name": "Eduardo Ibacache Rodriguez",
+    "id": 113158,
+    "affiliations": [
+      {
+        "id": 113157,
+        "name": "Coach Eduardo",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/113157"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/113157/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/113157/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Edwin Steiner",
+    "id": 125423,
+    "affiliations": [
+      {
+        "id": 125424,
+        "name": "Inventage",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/125424"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/125424/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/125424/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ege Korkan",
+    "id": 110131,
+    "affiliations": [
+      {
+        "id": 12390,
+        "name": "Siemens AG",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.siemens.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/12390"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/12390/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/12390/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ellen Rapaport",
+    "id": 148372,
+    "affiliations": [
+      {
+        "id": 148373,
+        "name": "Aggadom",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://aggadom.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/148373"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/148373/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/148373/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Emmet Townsend",
+    "id": 120473,
+    "affiliations": [
+      {
+        "id": 110197,
+        "name": "Inrupt Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://inrupt.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110197"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110197/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110197/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/110197.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Erfan Gholami",
+    "id": 150082,
+    "affiliations": []
+  },
+  {
+    "name": "Erich Bremer",
+    "id": 45759,
+    "affiliations": [
+      {
+        "id": 66654,
+        "name": "Stony Brook University",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.stonybrook.edu"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/66654"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/66654/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/66654/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/66654.png?x-version=1"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Eric Jahn",
+    "id": 66160,
+    "affiliations": [
+      {
+        "id": 136919,
+        "name": "Alexandria Consulting",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/136919"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/136919/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/136919/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Eric Prud'hommeaux",
+    "id": 2112,
+    "affiliations": []
+  },
+  {
+    "name": "Eric Woodward",
+    "id": 110313,
+    "affiliations": []
+  },
+  {
+    "name": "Esther De Loof",
+    "id": 140427,
+    "affiliations": [
+      {
+        "id": 71904,
+        "name": "Ghent University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/71904"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/71904/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/71904/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Eugene Park",
+    "id": 141009,
+    "affiliations": [
+      {
+        "id": 132747,
+        "name": "Sakak",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/132747"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/132747/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/132747/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Evan Meyers",
+    "id": 172531,
+    "affiliations": [
+      {
+        "id": 134687,
+        "name": "University of Arkansas",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/134687"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/134687/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/134687/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fabio Barone",
+    "id": 49149,
+    "affiliations": []
+  },
+  {
+    "name": "Filippo Nardocci",
+    "id": 141935,
+    "affiliations": [
+      {
+        "id": 133292,
+        "name": "Globe Protocol",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/133292"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/133292/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/133292/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fong An",
+    "id": 128961,
+    "affiliations": [
+      {
+        "id": 128960,
+        "name": "日照鲜购电子商务有限公司",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/128960"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/128960/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/128960/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "francois branciard",
+    "id": 143015,
+    "affiliations": []
+  },
+  {
+    "name": "Frank Kroon",
+    "id": 110208,
+    "affiliations": [
+      {
+        "id": 110207,
+        "name": "BeMup",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/110207"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110207/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110207/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Frederick Gibson",
+    "id": 126561,
+    "affiliations": [
+      {
+        "id": 127849,
+        "name": "Graphmetrix, Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://graphmetrix.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/127849"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/127849/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/127849/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fredric Landqvist",
+    "id": 90639,
+    "affiliations": [
+      {
+        "id": 90638,
+        "name": "Findwise",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/90638"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/90638/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/90638/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gabriel Rosset",
+    "id": 140908,
+    "affiliations": []
+  },
+  {
+    "name": "Ganesh Kumble",
+    "id": 110217,
+    "affiliations": []
+  },
+  {
+    "name": "Garethe Hughes",
+    "id": 163941,
+    "affiliations": []
+  },
+  {
+    "name": "Gary Murphy",
+    "id": 109131,
+    "affiliations": []
+  },
+  {
+    "name": "Geongyu Bae",
+    "id": 132748,
+    "affiliations": [
+      {
+        "id": 132747,
+        "name": "Sakak",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/132747"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/132747/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/132747/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gerald Melles",
+    "id": 141203,
+    "affiliations": []
+  },
+  {
+    "name": "Gordana Halavanja",
+    "id": 78152,
+    "affiliations": []
+  },
+  {
+    "name": "Gourab Saha",
+    "id": 139786,
+    "affiliations": []
+  },
+  {
+    "name": "Guilherme Siquinelli",
+    "id": 128108,
+    "affiliations": []
+  },
+  {
+    "name": "Hadrian Zbarcea",
+    "id": 142790,
+    "affiliations": []
+  },
+  {
+    "name": "Hannah Short",
+    "id": 125338,
+    "affiliations": [
+      {
+        "id": 1049,
+        "name": "CERN",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.cern.ch/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/1049"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/1049/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/1049/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Han Su",
+    "id": 128454,
+    "affiliations": []
+  },
+  {
+    "name": "Hari Om Dwivedi",
+    "id": 156590,
+    "affiliations": []
+  },
+  {
+    "name": "Harrison Tang",
+    "id": 135327,
+    "affiliations": [
+      {
+        "id": 135326,
+        "name": "Spokeo",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/135326"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/135326/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/135326/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Harshvardhan J. Pandit",
+    "id": 101406,
+    "affiliations": [
+      {
+        "id": 52123,
+        "name": "Trinity College Dublin",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.tcd.ie"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/52123"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/52123/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/52123/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hindia Mohammed",
+    "id": 126694,
+    "affiliations": [
+      {
+        "id": 126693,
+        "name": "Ekseli Oy",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/126693"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/126693/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/126693/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hong Sun",
+    "id": 78702,
+    "affiliations": [
+      {
+        "id": 153458,
+        "name": "Jiaxing University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://global.zjxu.edu.cn/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/153458"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/153458/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/153458/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hooman Mohajeri Moghaddam",
+    "id": 125943,
+    "affiliations": [
+      {
+        "id": 68606,
+        "name": "Princeton University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/68606"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/68606/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/68606/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "huanyu cai",
+    "id": 131907,
+    "affiliations": [
+      {
+        "id": 130350,
+        "name": "Brickdoc",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://brickdoc.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/130350"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/130350/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/130350/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hua-Rong Chu",
+    "id": 133811,
+    "affiliations": [
+      {
+        "id": 9980,
+        "name": "Chunghwa Telecom Company, Ltd.",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.cht.com.tw"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/9980"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/9980/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/9980/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hu Liu",
+    "id": 131155,
+    "affiliations": [
+      {
+        "id": 131154,
+        "name": "Jiangsu TPBlock Technology Co., Ltd. （江苏第三极区块链科技有限公司）",
+        "discr": "organization",
+        "testimonials": {
+          "en": "As a leading domestic blockchain technology and software application product development company, Disanji with full-service capabilities is the world's leading blockchain solution provider, including various blockchain technology research and development for various government departments and institutions.",
+          "zh_hans": "南京第三极区块链科技有限公司是全球领先的区块链解决方案供应商，为政府各部门及各企事业单位提供各种区块链技术研发和范式研究服务，拥有全方位的服务能力。"
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://tpblock.cn"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/131154"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/131154/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/131154/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/131154.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Huw Diprose",
+    "id": 137846,
+    "affiliations": [
+      {
+        "id": 74902,
+        "name": "HM Government",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.gov.uk"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/74902"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/74902/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/74902/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ila Benjamin",
+    "id": 150630,
+    "affiliations": []
+  },
+  {
+    "name": "Ines Akaichi",
+    "id": 134420,
+    "affiliations": [
+      {
+        "id": 68381,
+        "name": "WU (Wirschaftsuniversität Wien) - Vienna University of Economics and Business",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.wu.ac.at/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/68381"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/68381/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/68381/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/68381.png?x-version=1"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Inge La Riviere",
+    "id": 115304,
+    "affiliations": [
+      {
+        "id": 62974,
+        "name": "Wageningen University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/62974"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/62974/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/62974/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jackson Morgan",
+    "id": 114745,
+    "affiliations": [
+      {
+        "id": 145853,
+        "name": "O.team",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://o.team"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/145853"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/145853/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/145853/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jacqui Vo",
+    "id": 140166,
+    "affiliations": [
+      {
+        "id": 1219,
+        "name": "Defense Information Systems Agency",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.disa.mil"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/1219"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/1219/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/1219/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "James Birmingham",
+    "id": 75642,
+    "affiliations": [
+      {
+        "id": 111725,
+        "name": "ITV",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/111725"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/111725/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/111725/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "James Doe",
+    "id": 140792,
+    "affiliations": [
+      {
+        "id": 140793,
+        "name": "Diaphanous",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/140793"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/140793/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/140793/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "James Martin",
+    "id": 113757,
+    "affiliations": [
+      {
+        "id": 110221,
+        "name": "Janeiro Digital",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.janeirodigital.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110221"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110221/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110221/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "James Randall",
+    "id": 117698,
+    "affiliations": [
+      {
+        "id": 84916,
+        "name": "Department for Work and Pensions",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/84916"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/84916/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/84916/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jan Schill",
+    "id": 128210,
+    "affiliations": []
+  },
+  {
+    "name": "Jeeth Garageshwara",
+    "id": 130279,
+    "affiliations": [
+      {
+        "id": 130280,
+        "name": "27th Cross LLC",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/130280"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/130280/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/130280/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jeff Waters",
+    "id": 43425,
+    "affiliations": [
+      {
+        "id": 1219,
+        "name": "Defense Information Systems Agency",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.disa.mil"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/1219"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/1219/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/1219/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jeff Zucker",
+    "id": 113786,
+    "affiliations": []
+  },
+  {
+    "name": "Jegan Davies-Jones",
+    "id": 128738,
+    "affiliations": []
+  },
+  {
+    "name": "Jeong Yun Moon",
+    "id": 158491,
+    "affiliations": []
+  },
+  {
+    "name": "Jesse Wright",
+    "id": 132252,
+    "affiliations": [
+      {
+        "id": 41719,
+        "name": "University of Oxford",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.ox.ac.uk/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/41719"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/41719/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/41719/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/41719.png?x-version=2"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jess Moore",
+    "id": 149874,
+    "affiliations": [
+      {
+        "id": 75960,
+        "name": "Australian National University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://cbe.anu.edu.au"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/75960"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/75960/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/75960/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Joachim Van Herwegen",
+    "id": 141328,
+    "affiliations": [
+      {
+        "id": 71904,
+        "name": "Ghent University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/71904"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/71904/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/71904/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Joaquin Salvachua",
+    "id": 112932,
+    "affiliations": [
+      {
+        "id": 34345,
+        "name": "Universidad Politécnica de Madrid",
+        "discr": "organization",
+        "testimonials": {
+          "en": "The Universidad Politécnica de Madrid is the largest Spanish technological university as well as a renowned European institution. With two recognitions as Campus of International Excellence, it is outstanding in its research activity together with its training of highly-qualified professionals, competitive at an international level."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.upm.es"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/34345"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/34345/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/34345/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/34345.png?x-version=5"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Johan Regnström",
+    "id": 171424,
+    "affiliations": []
+  },
+  {
+    "name": "John Bruce",
+    "id": 110198,
+    "affiliations": [
+      {
+        "id": 110197,
+        "name": "Inrupt Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://inrupt.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110197"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110197/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110197/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/110197.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Erickson",
+    "id": 12991,
+    "affiliations": [
+      {
+        "id": 41999,
+        "name": "Rensselaer Polytechnic Institute",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.rpi.edu"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/41999"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/41999/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/41999/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Kirkwood",
+    "id": 47835,
+    "affiliations": [
+      {
+        "id": 93517,
+        "name": "CityMouse, inc",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/93517"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/93517/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/93517/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Johnny (Qiang) Chen",
+    "id": 97745,
+    "affiliations": [
+      {
+        "id": 56680,
+        "name": "LSEG",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.lseg.com/en"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/56680"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/56680/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/56680/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Yu",
+    "id": 128924,
+    "affiliations": []
+  },
+  {
+    "name": "Jonas Smedegaard",
+    "id": 52006,
+    "affiliations": []
+  },
+  {
+    "name": "Jon Pederson",
+    "id": 114294,
+    "affiliations": []
+  },
+  {
+    "name": "Jose Emilio Labra Gayo",
+    "id": 39214,
+    "affiliations": [
+      {
+        "id": 33823,
+        "name": "Fundacion CTIC",
+        "discr": "organization",
+        "testimonials": {
+          "en": "CTIC is a private non-profit Research and Technology Organization (RTO), specialized in the research and development of cutting-edge and emerging technologies. Artificial Intelligence, Web of Things, Immersive Technologies, W3C Standards and Open Data, Blockchain and Quantum Computing are the main fields of specialization of the Center."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.fundacionctic.org"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/33823"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/33823/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/33823/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/33823.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Joshua Cornejo",
+    "id": 121991,
+    "affiliations": []
+  },
+  {
+    "name": "Justin Bingham",
+    "id": 110222,
+    "affiliations": [
+      {
+        "id": 110221,
+        "name": "Janeiro Digital",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.janeirodigital.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110221"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110221/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110221/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kabul Kurniawan",
+    "id": 101754,
+    "affiliations": []
+  },
+  {
+    "name": "Kai Gilb",
+    "id": 127735,
+    "affiliations": [
+      {
+        "id": 127849,
+        "name": "Graphmetrix, Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://graphmetrix.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/127849"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/127849/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/127849/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kangchan Lee",
+    "id": 28171,
+    "affiliations": [
+      {
+        "id": 28169,
+        "name": "Electronics and Telecommunications Research Institute (ETRI)",
+        "discr": "organization",
+        "testimonials": {
+          "en": "Established in 1976, ETRI is a non-profit government-funded research organization in Korea. ETRI has successfully developed information technologies on the Web such as ezOWL (visual Editor of OWL), and ETRI is committed to use W3C Technologies in its developments. ETRI is also the home of the W3C Korean Chapter."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.etri.re.kr"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/28169"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/28169/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/28169/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/28169.png?x-version=4"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kayode Ezike",
+    "id": 106964,
+    "affiliations": []
+  },
+  {
+    "name": "Keith Lawson",
+    "id": 169774,
+    "affiliations": [
+      {
+        "id": 169775,
+        "name": "London Health Sciences Centre",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.lhsc.on.ca"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/169775"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/169775/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/169775/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kelly O'Brien",
+    "id": 113396,
+    "affiliations": [
+      {
+        "id": 110197,
+        "name": "Inrupt Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://inrupt.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110197"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110197/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110197/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/110197.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kerensa Jennings",
+    "id": 137050,
+    "affiliations": [
+      {
+        "id": 1042,
+        "name": "BT",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.bt.co.uk"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/1042"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/1042/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/1042/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kévin Dunglas",
+    "id": 69224,
+    "affiliations": [
+      {
+        "id": 69223,
+        "name": "Kévin Dunglas",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/69223"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/69223/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/69223/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kevin Poulsen",
+    "id": 110685,
+    "affiliations": []
+  },
+  {
+    "name": "Kevin Weber",
+    "id": 130710,
+    "affiliations": [
+      {
+        "id": 97591,
+        "name": "Airbnb Inc",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.airbnb.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/97591"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/97591/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/97591/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Khaled Mathlouthi",
+    "id": 125524,
+    "affiliations": []
+  },
+  {
+    "name": "Khalid Alnuaim",
+    "id": 113705,
+    "affiliations": []
+  },
+  {
+    "name": "Kingsley Idehen",
+    "id": 39620,
+    "affiliations": [
+      {
+        "id": 39619,
+        "name": "OpenLink Software Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.openlinksw.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/39619"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/39619/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/39619/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kjetil Kjernsmo",
+    "id": 38800,
+    "affiliations": [
+      {
+        "id": 136454,
+        "name": "Norwegian Agency for Development Cooperation",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/136454"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/136454/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/136454/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Knut-Olav Hoven",
+    "id": 110376,
+    "affiliations": []
+  },
+  {
+    "name": "kofi kyei",
+    "id": 125970,
+    "affiliations": []
+  },
+  {
+    "name": "Konstantinos Kotis",
+    "id": 63993,
+    "affiliations": [
+      {
+        "id": 59030,
+        "name": "University of the Aegean",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/59030"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/59030/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/59030/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kurt Cagle",
+    "id": 38073,
+    "affiliations": []
+  },
+  {
+    "name": "Kushal Das",
+    "id": 136712,
+    "affiliations": [
+      {
+        "id": 130773,
+        "name": "SUNET",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/130773"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/130773/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/130773/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kyra .",
+    "id": 166630,
+    "affiliations": [
+      {
+        "id": 166722,
+        "name": "EditShare",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://editshare.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/166722"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/166722/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/166722/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lauernce Zhang",
+    "id": 128823,
+    "affiliations": []
+  },
+  {
+    "name": "Laurens Debackere",
+    "id": 136298,
+    "affiliations": [
+      {
+        "id": 72870,
+        "name": "Digitaal Vlaanderen",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.vlaanderen.be/digitaal-vlaanderen"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/72870"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/72870/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/72870/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/72870.png?x-version=2"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Leonard Rosenthol",
+    "id": 42485,
+    "affiliations": [
+      {
+        "id": 1057,
+        "name": "Adobe",
+        "discr": "organization",
+        "testimonials": {
+          "en": "Adobe revolutionizes how the world engages with ideas and information - anytime, anywhere and through any medium. As a leading provider of best-in-class Web technologies, Adobe actively supports the development of W3C standards promoting global interoperability."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.adobe.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/1057"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/1057/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/1057/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Leon Porter",
+    "id": 124979,
+    "affiliations": []
+  },
+  {
+    "name": "Li Ding",
+    "id": 130323,
+    "affiliations": [
+      {
+        "id": 130350,
+        "name": "Brickdoc",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://brickdoc.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/130350"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/130350/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/130350/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lily Park",
+    "id": 169000,
+    "affiliations": [
+      {
+        "id": 62448,
+        "name": "Open Data Institute",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://theodi.org/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/62448"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/62448/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/62448/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "lin ye",
+    "id": 132303,
+    "affiliations": []
+  },
+  {
+    "name": "Lucy Arrowsmith",
+    "id": 155696,
+    "affiliations": [
+      {
+        "id": 155697,
+        "name": "Helfie",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.helfie.ai/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/155697"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/155697/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/155697/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mahdi Baghbani",
+    "id": 148914,
+    "affiliations": [
+      {
+        "id": 143306,
+        "name": "Ponder Source",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://pondersource.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/143306"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/143306/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/143306/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Maico Oliveira Buss",
+    "id": 130827,
+    "affiliations": []
+  },
+  {
+    "name": "Marco Neumann",
+    "id": 36595,
+    "affiliations": [
+      {
+        "id": 59295,
+        "name": "KONA",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/59295"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/59295/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/59295/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mark Lizar",
+    "id": 107445,
+    "affiliations": [
+      {
+        "id": 107444,
+        "name": "Open Consent Group",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/107444"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/107444/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/107444/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mark Senefsky",
+    "id": 93648,
+    "affiliations": []
+  },
+  {
+    "name": "Mark Thompson",
+    "id": 62851,
+    "affiliations": [
+      {
+        "id": 59130,
+        "name": "Leiden University Medical Center",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/59130"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/59130/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/59130/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mark Wallis",
+    "id": 161571,
+    "affiliations": [
+      {
+        "id": 108986,
+        "name": "The University of Newcastle",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/108986"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/108986/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/108986/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mark Weiler",
+    "id": 106032,
+    "affiliations": [
+      {
+        "id": 80216,
+        "name": "Wilfrid Laurier University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/80216"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/80216/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/80216/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Matthew Fowle",
+    "id": 87756,
+    "affiliations": []
+  },
+  {
+    "name": "Matthias Evering",
+    "id": 114344,
+    "affiliations": []
+  },
+  {
+    "name": "Matthieu Bosquet",
+    "id": 109103,
+    "affiliations": []
+  },
+  {
+    "name": "Matt Taylor",
+    "id": 155740,
+    "affiliations": []
+  },
+  {
+    "name": "Matt Wallis",
+    "id": 110163,
+    "affiliations": [
+      {
+        "id": 110162,
+        "name": "Solidarity Economy Association Ltd",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/110162"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110162/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110162/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Maxime Lecoq",
+    "id": 140552,
+    "affiliations": [
+      {
+        "id": 10894,
+        "name": "Institut National de Recherche en Informatique et en Automatique (Inria)",
+        "discr": "organization",
+        "testimonials": {
+          "en": "Inria is a founding member of W3C. Inria is the french national research institute dedicated to digital sciences, addressing scientific and technological challenges in IT and playing an active role in technology transfer. Inria was also the European host of W3C until 2002 and actively contributes to W3C groups and activities."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.inria.fr/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/10894"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/10894/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/10894/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/10894.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Max Leonard",
+    "id": 127984,
+    "affiliations": [
+      {
+        "id": 110197,
+        "name": "Inrupt Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://inrupt.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110197"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110197/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110197/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/110197.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Meem Arafat Manab",
+    "id": 171716,
+    "affiliations": [
+      {
+        "id": 34345,
+        "name": "Universidad Politécnica de Madrid",
+        "discr": "organization",
+        "testimonials": {
+          "en": "The Universidad Politécnica de Madrid is the largest Spanish technological university as well as a renowned European institution. With two recognitions as Campus of International Excellence, it is outstanding in its research activity together with its training of highly-qualified professionals, competitive at an international level."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.upm.es"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/34345"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/34345/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/34345/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/34345.png?x-version=5"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Meindert Osinga",
+    "id": 144303,
+    "affiliations": [
+      {
+        "id": 144304,
+        "name": "Geens NPO",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://geenodes.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/144304"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/144304/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/144304/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Melvin Carvalho",
+    "id": 43676,
+    "affiliations": []
+  },
+  {
+    "name": "Michaël Dierick",
+    "id": 127459,
+    "affiliations": [
+      {
+        "id": 103003,
+        "name": "REDPENCIL",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/103003"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/103003/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/103003/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Michael Herman",
+    "id": 111830,
+    "affiliations": []
+  },
+  {
+    "name": "Michael Paduch",
+    "id": 128620,
+    "affiliations": []
+  },
+  {
+    "name": "Michael Pigott",
+    "id": 114768,
+    "affiliations": [
+      {
+        "id": 114767,
+        "name": "Iron Horse Software, LLC",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/114767"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/114767/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/114767/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Michael Toomim",
+    "id": 84305,
+    "affiliations": []
+  },
+  {
+    "name": "Michal @mrkvon",
+    "id": 148438,
+    "affiliations": []
+  },
+  {
+    "name": "Michiel Bellens",
+    "id": 134132,
+    "affiliations": []
+  },
+  {
+    "name": "Michiel de Jong",
+    "id": 143305,
+    "affiliations": [
+      {
+        "id": 143306,
+        "name": "Ponder Source",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://pondersource.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/143306"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/143306/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/143306/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Miguel Ceriani",
+    "id": 59576,
+    "affiliations": [
+      {
+        "id": 130094,
+        "name": "CNR-ISTC (Istituto di Scienze e Tecnologie della Cognizione)",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/130094"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/130094/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/130094/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mike Adams",
+    "id": 112911,
+    "affiliations": []
+  },
+  {
+    "name": "Mike Orchard",
+    "id": 138706,
+    "affiliations": [
+      {
+        "id": 138705,
+        "name": "Thorus Technologies Ltd",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/138705"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/138705/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/138705/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mischa Tuffield",
+    "id": 43450,
+    "affiliations": [
+      {
+        "id": 110172,
+        "name": "TokenCard",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/110172"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110172/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110172/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nicolaas Pereboom",
+    "id": 163550,
+    "affiliations": []
+  },
+  {
+    "name": "Nicolas Seydoux",
+    "id": 80483,
+    "affiliations": [
+      {
+        "id": 110197,
+        "name": "Inrupt Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://inrupt.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110197"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110197/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110197/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/110197.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Noah Ortiz",
+    "id": 150144,
+    "affiliations": []
+  },
+  {
+    "name": "Onur Yüksel",
+    "id": 130733,
+    "affiliations": []
+  },
+  {
+    "name": "Oshani Seneviratne",
+    "id": 137336,
+    "affiliations": [
+      {
+        "id": 41999,
+        "name": "Rensselaer Polytechnic Institute",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.rpi.edu"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/41999"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/41999/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/41999/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Owen Sacco",
+    "id": 121594,
+    "affiliations": [
+      {
+        "id": 127373,
+        "name": "Malta College of Arts, Science and Technology",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/127373"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/127373/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/127373/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pano Maria",
+    "id": 81982,
+    "affiliations": [
+      {
+        "id": 103693,
+        "name": "Skemu",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/103693"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/103693/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/103693/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pasquale Boemio",
+    "id": 160659,
+    "affiliations": []
+  },
+  {
+    "name": "Paul Daly",
+    "id": 142711,
+    "affiliations": []
+  },
+  {
+    "name": "Paul deGrandis",
+    "id": 136297,
+    "affiliations": [
+      {
+        "id": 136296,
+        "name": "Kevel",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.kevel.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/136296"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/136296/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/136296/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Paul Mundt",
+    "id": 110526,
+    "affiliations": [
+      {
+        "id": 110527,
+        "name": "Stichting Adaptant Foundation",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/110527"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110527/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110527/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Paul Worrall",
+    "id": 78257,
+    "affiliations": [
+      {
+        "id": 65277,
+        "name": "Interition Ltd.",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/65277"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/65277/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/65277/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pavlik elf",
+    "id": 46577,
+    "affiliations": []
+  },
+  {
+    "name": "Pavlos Pseftoyiannis",
+    "id": 122401,
+    "affiliations": []
+  },
+  {
+    "name": "Peter Bruhn Andersen",
+    "id": 100302,
+    "affiliations": [
+      {
+        "id": 100301,
+        "name": "Agency for Digitisation",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://en.digst.dk/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/100301"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/100301/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/100301/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Peter Rivett",
+    "id": 53697,
+    "affiliations": [
+      {
+        "id": 140723,
+        "name": "Federated Knowledge, LLC",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/140723"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/140723/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/140723/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Peter Smith",
+    "id": 76996,
+    "affiliations": []
+  },
+  {
+    "name": "Philip Laszkowicz",
+    "id": 48672,
+    "affiliations": [
+      {
+        "id": 79464,
+        "name": "Omnijar",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/79464"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/79464/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/79464/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Philippe Duchesne",
+    "id": 56977,
+    "affiliations": [
+      {
+        "id": 128726,
+        "name": "Datavillage",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/128726"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/128726/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/128726/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pierre-Antoine Champin",
+    "id": 129656,
+    "affiliations": [
+      {
+        "id": 52794,
+        "name": "W3C",
+        "discr": "affiliation",
+        "_links": {
+          "homepage": {
+            "href": "https://www.w3.org/People/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/52794"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/52794/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/52794/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pieter van Everdingen",
+    "id": 96523,
+    "affiliations": [
+      {
+        "id": 96522,
+        "name": "OpenInc",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/96522"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/96522/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/96522/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pol Alvarez",
+    "id": 102004,
+    "affiliations": [
+      {
+        "id": 128770,
+        "name": "Pensionera Förmedling i Sverige AB",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/128770"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/128770/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/128770/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Precious Oritsedere",
+    "id": 172756,
+    "affiliations": [
+      {
+        "id": 62448,
+        "name": "Open Data Institute",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://theodi.org/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/62448"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/62448/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/62448/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rafael Richards",
+    "id": 46011,
+    "affiliations": []
+  },
+  {
+    "name": "Rahul Gupta",
+    "id": 123567,
+    "affiliations": []
+  },
+  {
+    "name": "Rami Rustom",
+    "id": 128513,
+    "affiliations": []
+  },
+  {
+    "name": "Ram Kripa",
+    "id": 143995,
+    "affiliations": [
+      {
+        "id": 57707,
+        "name": "University of California, Berkeley",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/57707"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/57707/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/57707/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Raúl R. Pearson",
+    "id": 114383,
+    "affiliations": []
+  },
+  {
+    "name": "Renoir Boulanger",
+    "id": 58432,
+    "affiliations": []
+  },
+  {
+    "name": "Richard Marshall",
+    "id": 129458,
+    "affiliations": []
+  },
+  {
+    "name": "Rishabh Gupta",
+    "id": 123075,
+    "affiliations": [
+      {
+        "id": 123076,
+        "name": "Shri Vaishnav vidyapeeth Vishwavidyalaya",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/123076"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/123076/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/123076/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "RJ Herrick",
+    "id": 68078,
+    "affiliations": []
+  },
+  {
+    "name": "Robbie Yang",
+    "id": 152672,
+    "affiliations": []
+  },
+  {
+    "name": "Roderick Kennedy",
+    "id": 145826,
+    "affiliations": [
+      {
+        "id": 145827,
+        "name": "Simul",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://teleportvr.io"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/145827"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/145827/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/145827/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Roger Perry",
+    "id": 127850,
+    "affiliations": [
+      {
+        "id": 127849,
+        "name": "Graphmetrix, Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://graphmetrix.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/127849"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/127849/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/127849/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ron Herardian",
+    "id": 170747,
+    "affiliations": [
+      {
+        "id": 170748,
+        "name": "Aethercloud, LLC",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://aethercloud.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/170748"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/170748/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/170748/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ross Horne",
+    "id": 116822,
+    "affiliations": [
+      {
+        "id": 63795,
+        "name": "University of Strathclyde",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/63795"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/63795/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/63795/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Roy Leon",
+    "id": 110150,
+    "affiliations": []
+  },
+  {
+    "name": "Rui Zhao",
+    "id": 152186,
+    "affiliations": [
+      {
+        "id": 41719,
+        "name": "University of Oxford",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.ox.ac.uk/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/41719"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/41719/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/41719/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/41719.png?x-version=2"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sabrina Kirrane",
+    "id": 78405,
+    "affiliations": [
+      {
+        "id": 68381,
+        "name": "WU (Wirschaftsuniversität Wien) - Vienna University of Economics and Business",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.wu.ac.at/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/68381"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/68381/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/68381/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/68381.png?x-version=1"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Samu Lang",
+    "id": 137714,
+    "affiliations": [
+      {
+        "id": 62448,
+        "name": "Open Data Institute",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://theodi.org/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/62448"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/62448/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/62448/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Samy Vincent",
+    "id": 110154,
+    "affiliations": []
+  },
+  {
+    "name": "Santi Lozano",
+    "id": 128627,
+    "affiliations": []
+  },
+  {
+    "name": "Sarven Capadisli",
+    "id": 46140,
+    "affiliations": []
+  },
+  {
+    "name": "Sébastien Dubois",
+    "id": 114103,
+    "affiliations": [
+      {
+        "id": 114102,
+        "name": "DeveloPassion SPRL",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/114102"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/114102/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/114102/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sébastien Rosset",
+    "id": 150689,
+    "affiliations": [
+      {
+        "id": 110157,
+        "name": "Virtual Assembly",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/110157"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110157/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110157/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Seila Gonzalez Estrecha",
+    "id": 145967,
+    "affiliations": [
+      {
+        "id": 110197,
+        "name": "Inrupt Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://inrupt.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/110197"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110197/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110197/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/110197.png?x-version=3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sharon Stratsianis",
+    "id": 124390,
+    "affiliations": []
+  },
+  {
+    "name": "Sheff Engi",
+    "id": 131161,
+    "affiliations": []
+  },
+  {
+    "name": "Simon Grant",
+    "id": 63402,
+    "affiliations": [
+      {
+        "id": 112886,
+        "name": "Cetis LLP",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/112886"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/112886/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/112886/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Simon Louvet",
+    "id": 110159,
+    "affiliations": [
+      {
+        "id": 110157,
+        "name": "Virtual Assembly",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/110157"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/110157/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/110157/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sindhu Raju",
+    "id": 140129,
+    "affiliations": []
+  },
+  {
+    "name": "Soheil Roshankish",
+    "id": 115480,
+    "affiliations": [
+      {
+        "id": 92665,
+        "name": "Università della Svizzera italiana",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/92665"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/92665/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/92665/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "soonkuk kang",
+    "id": 131938,
+    "affiliations": []
+  },
+  {
+    "name": "Souen Mazouin",
+    "id": 128371,
+    "affiliations": []
+  },
+  {
+    "name": "Stephen Taylor",
+    "id": 166632,
+    "affiliations": []
+  },
+  {
+    "name": "Steve Olshansky",
+    "id": 160823,
+    "affiliations": [
+      {
+        "id": 160824,
+        "name": "LuminaGroup",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.luminagroup.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/160824"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/160824/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/160824/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sungjae Jung",
+    "id": 155498,
+    "affiliations": []
+  },
+  {
+    "name": "Syed Ali Raza Zaidi",
+    "id": 128631,
+    "affiliations": [
+      {
+        "id": 54040,
+        "name": "University of Leeds",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/54040"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/54040/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/54040/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sylvain Le Bon",
+    "id": 113959,
+    "affiliations": [
+      {
+        "id": 113958,
+        "name": "Startin'blox",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://startinblox.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/113958"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/113958/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/113958/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sylvain Saint-André",
+    "id": 115744,
+    "affiliations": []
+  },
+  {
+    "name": "Taekhoon Kim",
+    "id": 89252,
+    "affiliations": [
+      {
+        "id": 71191,
+        "name": "Seoul National University",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/71191"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/71191/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/71191/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Takeo Nishikata",
+    "id": 113928,
+    "affiliations": [
+      {
+        "id": 106237,
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://web.mit.edu"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/106237"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/106237/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/106237/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tao Chen",
+    "id": 126766,
+    "affiliations": [
+      {
+        "id": 84026,
+        "name": "Underwriters Laboratories - Transaction Security",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/84026"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/84026/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/84026/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ted Thibodeau Jr",
+    "id": 42501,
+    "affiliations": [
+      {
+        "id": 39619,
+        "name": "OpenLink Software Inc.",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.openlinksw.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/39619"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/39619/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/39619/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Teodora Petkova",
+    "id": 78522,
+    "affiliations": []
+  },
+  {
+    "name": "th hck",
+    "id": 145181,
+    "affiliations": []
+  },
+  {
+    "name": "Thierry Marianne",
+    "id": 75342,
+    "affiliations": []
+  },
+  {
+    "name": "Thomas Gallagher",
+    "id": 113886,
+    "affiliations": []
+  },
+  {
+    "name": "Thomas Schouten",
+    "id": 110942,
+    "affiliations": [
+      {
+        "id": 112063,
+        "name": "Werk7",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/112063"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/112063/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/112063/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "thosleaf thos",
+    "id": 149531,
+    "affiliations": []
+  },
+  {
+    "name": "Tim Standen",
+    "id": 150743,
+    "affiliations": []
+  },
+  {
+    "name": "Tobias Kaefer",
+    "id": 102735,
+    "affiliations": [
+      {
+        "id": 6383,
+        "name": "Forschungszentrum Informatik (FZI)",
+        "discr": "organization",
+        "testimonials": [],
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.fzi.de"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/6383"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/6383/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/6383/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tolga Coplu",
+    "id": 150572,
+    "affiliations": [
+      {
+        "id": 150415,
+        "name": "Haltia, Inc.",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://haltia.ai"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/150415"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/150415/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/150415/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tommaso Crepax",
+    "id": 153869,
+    "affiliations": [
+      {
+        "id": 153870,
+        "name": "Sant'Anna School of Advanced Studies",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.santannapisa.it/it"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/153870"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/153870/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/153870/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tommy Lindberg",
+    "id": 155662,
+    "affiliations": []
+  },
+  {
+    "name": "Torbjörn Lager",
+    "id": 41349,
+    "affiliations": [
+      {
+        "id": 54030,
+        "name": "University of Gothenburg",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/54030"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/54030/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/54030/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Travis Vachon",
+    "id": 117080,
+    "affiliations": [
+      {
+        "id": 148836,
+        "name": "Mysilio Co",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://mysilio.com/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/148836"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/148836/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/148836/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Víctor Rodríguez-Doncel",
+    "id": 63824,
+    "affiliations": [
+      {
+        "id": 34345,
+        "name": "Universidad Politécnica de Madrid",
+        "discr": "organization",
+        "testimonials": {
+          "en": "The Universidad Politécnica de Madrid is the largest Spanish technological university as well as a renowned European institution. With two recognitions as Campus of International Excellence, it is outstanding in its research activity together with its training of highly-qualified professionals, competitive at an international level."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://www.upm.es"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/34345"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/34345/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/34345/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/34345.png?x-version=5"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Virginia Balseiro",
+    "id": 129283,
+    "affiliations": []
+  },
+  {
+    "name": "Wim Tobback",
+    "id": 131105,
+    "affiliations": [
+      {
+        "id": 131104,
+        "name": "Cronos Groep NV",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/131104"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/131104/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/131104/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wonsuk Lee",
+    "id": 34457,
+    "affiliations": [
+      {
+        "id": 28169,
+        "name": "Electronics and Telecommunications Research Institute (ETRI)",
+        "discr": "organization",
+        "testimonials": {
+          "en": "Established in 1976, ETRI is a non-profit government-funded research organization in Korea. ETRI has successfully developed information technologies on the Web such as ezOWL (visual Editor of OWL), and ETRI is committed to use W3C Technologies in its developments. ETRI is also the home of the W3C Korean Chapter."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "http://www.etri.re.kr"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/28169"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/28169/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/28169/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/28169.png?x-version=4"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wouter Kok",
+    "id": 129750,
+    "affiliations": []
+  },
+  {
+    "name": "Wouter Termont",
+    "id": 115604,
+    "affiliations": []
+  },
+  {
+    "name": "Yatharth (Arjun) Mishra",
+    "id": 137068,
+    "affiliations": []
+  },
+  {
+    "name": "Yehua Chen",
+    "id": 114881,
+    "affiliations": []
+  },
+  {
+    "name": "Yen-Lin Huang",
+    "id": 142419,
+    "affiliations": [
+      {
+        "id": 141535,
+        "name": "Ministry of Digital Affairs, Taiwan",
+        "discr": "organization",
+        "testimonials": {
+          "en": "The Ministry of Digital Affairs(moda), responsible for driving Taiwan’s digital transformation, will connect citizens and technology, improve industry and security, fulfill the goal of a smart country, and continue to lead the world via the Taiwan model. As a member of W3C, we are committed to working with all stakeholders, especially around DIDs."
+        },
+        "is-member": true,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://moda.gov.tw/"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/141535"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/141535/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/141535/participations"
+          },
+          "logo": {
+            "href": "https://www.w3.org/thumbnails/250/logos/organizations/141535.png?x-version=1"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Yuhang Shi",
+    "id": 131830,
+    "affiliations": [
+      {
+        "id": 130350,
+        "name": "Brickdoc",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "homepage": {
+            "href": "https://brickdoc.com"
+          },
+          "self": {
+            "href": "https://api.w3.org/affiliations/130350"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/130350/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/130350/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Yvo Brevoort",
+    "id": 129577,
+    "affiliations": [
+      {
+        "id": 129609,
+        "name": "Muze",
+        "discr": "organization",
+        "is-member": false,
+        "is-member-association": false,
+        "is-partner-member": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/affiliations/129609"
+          },
+          "participants": {
+            "href": "https://api.w3.org/affiliations/129609/participants"
+          },
+          "participations": {
+            "href": "https://api.w3.org/affiliations/129609/participations"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Zixuan Chen",
+    "id": 133368,
+    "affiliations": []
+  }
+]
