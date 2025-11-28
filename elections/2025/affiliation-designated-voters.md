@@ -26,7 +26,7 @@ List generated on 2025-11-20 using [solid-ecosystem-monitor](https://github.com/
 | Muze                                                                          | 2       | Yvo Brevoort            |            |
 | Open Data Institute                                                           | 4       | Samu Lang               |            |
 | OpenLink Software Inc.                                                        | 2       | Kingsley Idehen         |            |
-| Ponder Source                                                                 | 2       | Michiel de Jong         |            |
+| Ponder Source                                                                 | 2       | Michiel de Jong         | Mahdi Baghbani  |
 | REDPENCIL                                                                     | 2       | Aad Versteden           |            |
 | Rensselaer Polytechnic Institute                                              | 2       | John Erickson           |            |
 | Sakak                                                                         | 2       | Geongyu Bae             |            |
