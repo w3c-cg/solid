@@ -32,6 +32,6 @@ List generated on 2025-11-20 using [solid-ecosystem-monitor](https://github.com/
 | Sakak                                                                         | 2       | Geongyu Bae             |            |
 | Startin'blox                                                                  | 3       | Sylvain Le Bon          |            |
 | Universidad Politécnica de Madrid                                             | 4       | Víctor Rodríguez-Doncel |            |
-| University of Oxford                                                          | 2       | Jesse Wright            |            |
+| University of Oxford                                                          | 2       | Jesse Wright            | Precious Oritsedere |
 | Virtual Assembly                                                              | 2       | Simon Louvet            |            |
 | WU (Wirschaftsuniversität Wien) - Vienna University of Economics and Business | 3       | Sabrina Kirrane         |            |
