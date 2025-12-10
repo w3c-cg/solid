@@ -24,7 +24,7 @@ List generated on 2025-11-20 using [solid-ecosystem-monitor](https://github.com/
 | Janeiro Digital                                                               | 3       | Justin Bingham          |            |
 | Massachusetts Institute of Technology (MIT)                                   | 2       | Dmitri Zagidulin        |            |
 | Muze                                                                          | 2       | Yvo Brevoort            |            |
-| Open Data Institute                                                           | 4       | Samu Lang               |            |
+| Open Data Institute                                                           | 4       | Samu Lang               | Precious Oritsedere |
 | OpenLink Software Inc.                                                        | 2       | Kingsley Idehen         |            |
 | Ponder Source                                                                 | 2       | Michiel de Jong         | Mahdi Baghbani  |
 | REDPENCIL                                                                     | 2       | Aad Versteden           |            |
@@ -32,6 +32,6 @@ List generated on 2025-11-20 using [solid-ecosystem-monitor](https://github.com/
 | Sakak                                                                         | 2       | Geongyu Bae             |            |
 | Startin'blox                                                                  | 3       | Sylvain Le Bon          |            |
 | Universidad Politécnica de Madrid                                             | 4       | Víctor Rodríguez-Doncel |            |
-| University of Oxford                                                          | 2       | Jesse Wright            | Precious Oritsedere |
+| University of Oxford                                                          | 2       | Jesse Wright            |            |
 | Virtual Assembly                                                              | 2       | Simon Louvet            |            |
 | WU (Wirschaftsuniversität Wien) - Vienna University of Economics and Business | 3       | Sabrina Kirrane         |            |
