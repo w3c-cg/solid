@@ -1,0 +1,37 @@
+OpenSTV version 1.7 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.
+
+Certified election reports are also available.  Please go to
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file ballots-anonymised.blt.
+Ballot file contains 4 candidates and 23 ballots.
+No candidates have withdrawn.
+Ballot file contains 23 non-empty ballots.
+
+Counting votes for Solid CG Election December 2025 using Meek STV.
+4 candidates running for 2 seats.
+
+ R|Candidate |Candidate |Candidate |Candidate |Exhausted |Surplus   |Threshold
+  |1         |2         |3         |4         |          |          |
+===============================================================================
+ 1| 15.000000|  5.000000|  3.000000|  0.000000|  0.000000|  7.333333|  7.666667
+  |----------------------------------------------------------------------------
+  | Count of first choices. Candidate Candidate 1 has reached the threshold and
+  | is elected.
+===============================================================================
+ 2|  7.666680|  5.488888|  5.933328|  3.911104|  0.000000|  0.000013|  7.666667
+  |----------------------------------------------------------------------------
+  | Count after transferring surplus votes. Keep factors of candidates who have
+  | exceeded the threshold: Candidate 1, 0.511112.
+===============================================================================
+ 3|  7.666680|  6.955552|  8.377768|          |  0.000000|  0.711114|  7.666667
+  |----------------------------------------------------------------------------
+  | Count after eliminating Candidate 4 and transferring votes. All losing
+  | candidates are eliminated. Candidate Candidate 3 has reached the threshold
+  | and is elected.
+
+Winners are Candidate 1 and Candidate 3.
