@@ -432,8 +432,8 @@ https://www.w3.org/groups/cg/solid/calendar/
 
 CG Chairs have permissions to edit the calendar. Few things to keep in mind
 
-* Be mindful with automated notifications, consider saving changes without sending notifications.
-* When adding specific agenda, use *Edit this event*. *Edit this and future events* should only be used with generic changes valid across all future events.
+* Be mindful of automated notifications; consider saving changes without sending notifications.
+* When adding specific agenda, use *Edit this event*. *Edit this and future events* should only be used for generic changes that are valid across all future events.
 
 ## Communication
 
