@@ -6,7 +6,7 @@ Node Solid Server (NSS),,Yes,Yes,No,,
 Manas Solid Server,,,,,,
 TwinPod,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale with both agent hierarchy and object hierarchy support",
 ActivityPods,,Yes,Yes,No,We have started doing permissions checks based on SAI access grants because its declarative format is much easier to handle,
-JavaScript Solid Server (JSS),,Yes,Yes,No,WAC covers all current requirements. ACP adds complexity without clear benefit for our use cases.,Last commit today (20.03.2026)
+JavaScript Solid Server (JSS),,Yes,Yes,No,WAC covers all current requirements. ACP adds complexity without clear benefit for our use cases.,Last commit today (2026-03-20)
 Nextcloud Solid Server,,Yes,Yes,No,"WAC was the standard when it was build
 WAC/ACL more logical on a Nextcloud server",https://github.com/pdsinterop/solid-nextcloud
 PHP Solid Server,,Yes,Yes,No(t yet),"WAC was the standard when it was build
