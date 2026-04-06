@@ -1,0 +1,143 @@
+,,,Implements,,Is there are a set of features requiring you to pick one of the access control languages?,Other Notes
+Server,Developer/Provider,Maintained,WAC,ACP,,
+Enterprise Solid Server (ESS),,Yes,No,Yes,,Not open source
+Community Solid Server (CSS),,Yes,Yes,Yes,,
+Node Solid Server (NSS),,Yes,Yes,No,,
+Manas Solid Server,,,,,,
+TwinPod,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale with both agent hierarchy and object hierarchy support",
+ActivityPods,,Yes,Yes,No,We have started doing permissions checks based on SAI access grants because its declarative format is much easier to handle,
+JavaScript Solid Server (JSS),,Yes,Yes,No,WAC covers all current requirements. ACP adds complexity without clear benefit for our use cases.,Last commit today (2026-03-20)
+Nextcloud Solid Server,,Yes,Yes,No,"WAC was the standard when it was build
+WAC/ACL more logical on a Nextcloud server",https://github.com/pdsinterop/solid-nextcloud
+PHP Solid Server,,Yes,Yes,No(t yet),"WAC was the standard when it was build
+ACP is on our wishlist/todo","https://github.com/pdsinterop/multiuser-php-solid-server ,
+
+elf Pavlik
+13:29 20 Mar
+ 
+this one looks duplicate unless there are two PHP servers
+
+Sjoerd van Groning
+13:38 20 Mar
+ 
+Without links or proof of existence, the whole name calling is suboptimal. No idea what the other line is, it cannot be the Github link I added as we are maintaining and very actively developing the PHP Solid Server.
+In dutch we would call it s**t without the links, maybe somebody native english can explain it in very nice sounding words."
+sai-js,elf Pavlik,Yes,No,Yes,"WAC doesn't allow restricting cilents (PR exists), origin header restrictions only work in very limited circmustances","Build as heavy customisations on CSS, registries service uses ACP data pods custom policy engine using access grants.
+
+Anonymous
+13:13 22 Mar
+ 
+This doesn't seem to qualify as a server. It should be moved to another esction. The part that's using ACP is perhaps an application.
+
+elf Pavlik
+14:38 23 Mar
+ 
+Since CSS is designed as modular framework one can build upon, it also works as shared library. I think there is a major difference between just deploying vanilla CSS and building a server using CSS as shared library."
+https://github.com/daryltd/paa.pub,Luke Dary,Yes,Yes,Yes,"AI coding gave me the option to use both. The ACP is a custom, simplified implementation. ",https://github.com/daryltd/paa.pub/blob/main/docs/access-control.md
+https://github.com/linkeddata/gold,Andrei Sambra,No,Yes,No,,
+https://github.com/solid-contrib/pivot,Michiel de Jong,Yes,Yes,,,
+https://github.com/fcrepo/fcrepo/,Fedora community,Yes,Yes,No,,
+https://github.com/co-operating-systems/Reactive-SoLiD,Henry Story,No,Yes,No,,
+,,,,,,
+Server - Library,,,,,,
+https://github.com/uvdsl/solid-wac-java,Christoph Braun - uvdsl,yes,yes,no,ease of implementation / simplicity / quickly teachable to others,"This library implements checking Web Access Control rules in plain Java, (... sips coffee ...)."
+,,,,,,
+Service,,,,,,
+solidcommunity.net (running CSS),,Yes,Yes,No,"A migration from NSS solid.community.net, solidos compatibility, runs on Pivot a flavour of CSS",
+https://start.inrupt.com/ (running ESS),,,No ,Yes,,
+https://igrant.io/datapod.html,,,,,,
+https://solid.redpencil.io/,,,Yes,No,,
+https://pods.solidcommunity.au/,,Yes,Yes,No,,CSS with WAC and Suffix accounts
+https://solidweb.me/,Matthias Evering / meisdata,yes,yes (CSS),No,deployed from npmjs.com estimated September 2021,"weekly ssh, certs and versions"
+https://solidweb.org/,Matthias Evering / meisdata,yes,yes (NSS),No,deployed from npmjs.com estimated August 2019,"weekly ssh, certs and versions"
+https://teamid.live/,Matthias Evering / meisdata,yes,yes (Pivot/CSS),No (Pivot/flavour),deployed from npmjs.com estimated June 2023,"weekly ssh, certs and versions"
+https://get.use.id/people,,,,,,
+https://twinpod.us,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale",TwinPod US East 1  (Multiple Domains)
+https://twinpod.eu,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale",TwinPod Helsinki  (Multiple Domains)
+https://graphmetrix.net,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale",TwinPod US East 2
+https://demo.systemtwin.com,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale",TwinPod US East 3 (Multiple Domains)
+https://privatedatapod.com/,,Yes,Yes,No,,
+,,,,,,
+,,,,,,
+Application,,,,,,
+ODI Solid File Manager,ODI,Yes,No,Yes,,The app implements ACP for sharing and access control on resources
+Media Kraken,Noel De Martin,Yes,No,No,No,
+Penny,Vincent Tunru,Yes,Yes,Yes,,"Anonymous
+12:44 22 Mar
+ 
+Penny is a general tool to modify Solid data. There are no special affordances for ACP, but you can follow links to get to an ACR, and then modify the data in there.
+
+elf Pavlik
+14:35 23 Mar
+ 
+I think it has some custom UI for WAC, does it mean that it has special features for WAC but not for ACP?
+
+Christoph Braun
+13:32 Today
+ 
+Hm, I would then say that this is N/A rather than yes for both WAC and ACP. Because Penny does not really implement any logic for WAC or ACP...?
+
+elf Pavlik
+13:44 Today
+ 
+There is some UI sugar for WAC but no for ACP
+
+Anonymous
+13:52 Today
+ 
+Oops, accidentally posted from my work account - here's my earlier reply to elf:
+
+> That is correct - you can view and modify ACRs just like any other resource, but there's no custom UI for them like there is for ACLs.
+
+> (This is Vincent btw :)
+
+Anonymous
+13:53 Today
+ 
+And I guess that depends on what ""Implements"" means. There's no special logic for ACP, but you can adjust ACP access, so 🤷️
+
+Anonymous
+13:56 Today
+ 
+(Oh actually, there is a little bit of ACP-specific logic, to detect the link to an ACR so that you can edit it: https://gitlab.com/vincenttunru/penny/-/blob/792b7c4899cff96e9a1a2bb1065d758749b7842c/src/components/viewers/LinkedResourcesViewer.tsx#L40-63)"
+Umai,Noel De Martin,Yes,Yes,No,"Yes, sharing recipes and changing their visibility","I used to direct ACP users to Inrupt's Pod Browser, but given that this has been discontinued I'm not sure what I should tell my users anymore :/."
+0data Hello With Solid,,Yes,Yes,No,,
+Booklice,,,,,,
+Dokieli ( https://dokie.li/ ),"Sarven Capadisli, Virginia Balseiro",Yes,Yes,No,"WAC: Simplicity and efficiency to cover all significant use cases (for the open web). Ease of implementation, better DX. Our team has experience implementing ACP in other projects (Pod Browser) and found it extremely cumbersome to work with and hard to understand, both from a developer's perspective but also to integrate into apps while maintaining good UX/UI. And it provided no benefit in any shape or form over WAC. Also adds performance difficulties.","Authoring and annotation tool. Solid's replacement for / decentralized alternative to Google Docs / Slides, Obsidian, Hypothesis, Wordpress, etc. Daily commits. Source code: https://git.dokie.li/ . Recipient of two NLnet grants. Dokieli is the oldest application in the Solid ecosystem that's still maintained ( https://csarven.ca/okieli-dokieli )"
+Pod Pro,,,,,,
+PodOS Browser,,,,,,
+solid-filemanager,Otto-AA and Alain,Yes,Yes,No,,
+solid-file-client,Jeff Zucker and Alain Bourgeois,Yes,Yes,No,,
+Solidflix,,,,,,
+Notepod,Vincent Tunru,No,N/A,N/A,,
+Poddit,Vincent Tunru,Yes,N/A,N/A,,
+HealthPod,,,,,,
+MovieStar,,,,,,
+SolidFocus,Noel De Martin,Yes,No,No,No,
+https://github.com/uvdsl/solid-authorization-app,Christoph Braun - uvdsl,yes,yes,no,ease of implementation / simplicity / quickly teachable to others,Authorization Application to set access control rules (WAC) upon access requests
+https://github.com/DATEV-Research/Solid-authorization-app,DATEV eG,no,yes,no,ease of implementation / simplicity / quickly teachable to others,Authorization Application to set access control rules (WAC) upon access requests
+Interition Solid Agent Storage,,Yes,Yes,No,"No. Currently WAC-only but planning ACP support with server auto-detection. The skill will work with either.
+  ACP's issuer scoping, client scoping, and VC matching would strengthen multi-agent trust scenarios but are not blocking current functionality.","OpenClaw skill giving AI agents WebID identity and Pod storage. Deployed across OpenClaw, NVIDIA NemoClaw, and Claude Code runtimes. 15+ agents in production on crawlout.io."
+Interition App Creator,,Yes,Yes,Yes,"Not yet, but ACP's client scoping (restricting which app can exercise a grant) maps directly to a multi-app platform where different apps need different access levels to the same Pod data. WAC sufficient for initial implementation. 
+  ",Low-code/no-code platform for building Solid-based applications. Live product with early active user community. Planned evolution into Agent Builder will increase access control requirements.
+Interition  crawlout.io,,Yes,Yes,"No (CSS supports it?, not currently configured)",Not yet. WAC covers current grant/revoke patterns. Pretty sure ACP might be needed but until there is a requirement not sure.,Interition-operated CSS hosting WebIDs and Pods for 10+ AI agents. CSS supports both WAC and ACP but not simultaneously ? — configuration swap required ?
+Interition Agent Creator,,No,TBD,TBD," Yes. ACP is required for: issuer scoping (trust agents from specific identity providers only), client scoping (restrict which agent runtime exercises a grant), deny rules (instant revocation of compromised agents), and VC matching (capability-based task-scoped delegation). WAC's allow-only model is  insufficient for production multi-agent platforms.",Solid-native agent runtime platform in design phase. Evolution of App Creator for autonomous agent use cases
+sai-js auh agent / storage manager/ user auth server,elf Pavlik,Yes,No,Yes,Clien restrictions are one of core functionality and WAC doesn't support it.,It also manages access requests and access grants for data pods. ACP is used for SAI registries 
+https://systemtwin.com,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale",
+https://twinpod.us/app,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale",
+https://twinpod.eu/app,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale",
+https://demo.systemtwin.com/app,Graphmetrix,Yes,Yes,No,"WAC allows full permissions resolution, down to the triple resource level at scale",
+SolidOS,SolidOS team,Yes,Yes,No,,https://github.com/SolidOS
+DataKitchen,Jeff Zucker,Yes,Yes,No,Based on mashlib,Last Commit 4 years ago
+SolidCouch,Michal,Yes,Yes,No,vcard:Group resource that is not local to the shared resource (sharing resources with a changing group of people),
+https://github.com/bblfish/SolidCtrlApp,Henry Story,,Yes,No,,
+Pulse Protcol.,Smarter Contracts,Yes,TBAdded,Yes,"No -- our permissions are rather more involved than can be semantically expressed by either WAP or ACP, so we provide a wrapper around them, Currently wrapping ACP, but we'll support WAC as well soon.",
+Test Suite,,,,,,
+solid test-suite,Solid community,Yes,Yes,No,WAC was used on all public servers,https://solidservers.org/ https://github.com/solid-contrib/test-suite 
+conformance-test-harness,"Pete Edwards, acoburn",Yes,Yes,?,,"https://github.com/solid-contrib/conformance-test-harness
+
+elf Pavlik
+
+13:30 Today
+ 
+AFAIK harness is agnostic here"
