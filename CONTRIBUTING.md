@@ -384,7 +384,7 @@ For PRs involving other types of changes:
 
 |Document Type|Requirements|Time|
 |-|-|-|
-|Meeting Minutes|MUST PR.|After 1 day; within 2 days.|
+|Meeting Minutes|MUST PR.|Same day, merge during next week meeting|
 |Contributing Guide|MUST PR.|Within 10 days or 2 meetings.|
 
 
